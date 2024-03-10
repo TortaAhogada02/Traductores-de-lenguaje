@@ -1,1 +1,1 @@
-                                                                  ADELANTO DEL PROYECTO 
+PRINCIPAL DE MI PROYECTO
