@@ -45,3 +45,11 @@ Actualmente la falla que tengo es en la pila, algunas veces lanza el mismo
 resultado, pero en ocasiones si cambia, falta darle detalle en esas pequeñas 
 cosas. Aún falta comentarlo mejor para así se vea más organizado, en la semana 
 del 04 de marzo me daré a la tarea de hacerlo mejor 
+# EXPECTATIVAS 💚
+Estoy actualmente en cursos de python y con varias páginas web para mejorar cada vez mi lógica de programción
+comienzo a mejorar identificando los problemas en los códigos.
+Me encantaria aprender en estas vacaciones un poco más sobre las librerias disponibles en PYTHON para poder lograr asi 
+realizar una interfaz gráfica bonita para mi proyecto y lograr hacer mi primer interfaz complejaa pero **CON UNA PERSINADA TAMBIEN QUEDA**
+
+![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/91a907ed-85e1-4f5d-b81a-18cd5d718da4)
+
