@@ -17,3 +17,8 @@ Además, los compiladores pueden realizar varias tareas adicionales que mejoran 
 * **Ensamblador**
   
 ![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/1519cec1-7183-4a06-b59d-c066f7ed0ea4)
+
+## AUTOR
+:cowboy_hat_face: **Omar Alejandro Quiroz Trujillo** 
+`Foto especial por este 30 de abril`
+![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/9a6da839-f36a-46d0-a626-677e6d561ff6)
