@@ -22,3 +22,17 @@ Además, los compiladores pueden realizar varias tareas adicionales que mejoran 
 :cowboy_hat_face: **Omar Alejandro Quiroz Trujillo** 
 `Foto especial por este 30 de abril`
 ![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/9a6da839-f36a-46d0-a626-677e6d561ff6)
+
+##ETAPAS
+### [Analizador lexico](https://github.com/TortaAhogada02/Traductores-de-lenguaje/tree/ANALIZADOR-LEXICO).
+El analizador léxico es la primera fase de un compilador y tiene las siguientes funciones principales:
+
+1. Leer los caracteres del programa fuente de entrada, carácter por carácter, y agruparlos en unidades con significado llamadas componentes léxicos o tokens. Estos tokens son la entrada para la siguiente etapa del compilador, el analizador sintáctico.
+
+2. Eliminar elementos irrelevantes del código fuente, como espacios en blanco, tabuladores y comentarios.
+
+3. Identificar y clasificar los diferentes tipos de componentes léxicos, como palabras reservadas, identificadores, operadores, constantes numéricas, etc.
+
+4. Mantener un registro del número de línea y columna donde se encontró cada componente léxico, para facilitar la generación de mensajes de error.
+
+5. Realizar funciones de preprocesamiento, como la expansión de macros, si el lenguaje de programación lo requiere.
