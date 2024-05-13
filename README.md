@@ -68,3 +68,6 @@ Durante el proceso de compilación, se realizan verificaciones sintácticas y se
 
 * **Optimización de código**
 Los compiladores realizan optimizaciones en el código generado para mejorar su eficiencia en términos de tiempo de ejecución, uso de memoria y rendimiento general del programa.
+
+* **Portabilidad**
+Los compiladores permiten que un programa escrito en un lenguaje de alto nivel pueda ejecutarse en diferentes plataformas y arquitecturas de hardware, ya que generan código objeto específico para la plataforma de destino.
