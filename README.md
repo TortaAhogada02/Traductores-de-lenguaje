@@ -46,3 +46,5 @@ El analizador sintáctico es la fase del compilador que se encarga de verificar 
 3. Verificar que los tipos de datos están asignados correctamente para evitar errores semánticos.
 4. Generar código intermedio que permita la ejecución o interpretación de la entrada.
 5. Informar de los errores sintácticos encontrados en la entrada.
+
+### ([GRAMATICA](https://github.com/TortaAhogada02/Traductores-de-lenguaje/tree/ULTIMA-PARTE/GRAMATICA%20COMPILADOR)).
