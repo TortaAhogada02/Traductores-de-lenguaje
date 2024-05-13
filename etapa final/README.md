@@ -50,5 +50,16 @@ Además, los compiladores pueden realizar varias tareas adicionales que mejoran 
 
 * **ARBOL**
 
+![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/12d4a654-84c1-4785-88cf-875f70d736fd)
+
+![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/9bc54b07-7bf6-458d-a380-2ceb3054c631)
+
+* **LEXICO**
+
+![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/fd065843-0ad3-4dbf-989a-5ae384fbc3f6)
+
+![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/06d07acf-8c5e-42a0-b394-f60d5853757d)
+
+
 
 
