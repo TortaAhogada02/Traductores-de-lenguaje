@@ -71,3 +71,6 @@ Los compiladores realizan optimizaciones en el código generado para mejorar su 
 
 * **Portabilidad**
 Los compiladores permiten que un programa escrito en un lenguaje de alto nivel pueda ejecutarse en diferentes plataformas y arquitecturas de hardware, ya que generan código objeto específico para la plataforma de destino.
+
+* **Abstracción**
+Los compiladores permiten a los programadores trabajar a un nivel de abstracción más alto al escribir código en lenguajes de programación de alto nivel, lo que facilita el desarrollo de software complejo y reduce la complejidad de la programación a nivel de máquina.
