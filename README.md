@@ -60,3 +60,5 @@ Los árboles de derivación sintáctica son esenciales para identificar la estru
 ### [ETAPA FINAL](https://github.com/TortaAhogada02/Traductores-de-lenguaje/tree/ULTIMA-PARTE/etapa%20final)
 Un compilador es una herramienta fundamental en el desarrollo de software que desempeña varias funciones clave en el proceso de transformar el código fuente de un programa en un formato ejecutable.
 
+* **Traducción de código fuente**
+Un compilador traduce el código fuente escrito en un lenguaje de programación de alto nivel a un código objeto o ejecutable que puede ser entendido y ejecutado por la computadora.
