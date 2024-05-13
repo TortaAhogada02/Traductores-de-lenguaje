@@ -62,3 +62,6 @@ Un compilador es una herramienta fundamental en el desarrollo de software que de
 
 * **Traducción de código fuente**
 Un compilador traduce el código fuente escrito en un lenguaje de programación de alto nivel a un código objeto o ejecutable que puede ser entendido y ejecutado por la computadora.
+
+* **Optimización de código**
+Los compiladores realizan optimizaciones en el código generado para mejorar su eficiencia en términos de tiempo de ejecución, uso de memoria y rendimiento general del programa.
