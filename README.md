@@ -55,6 +55,6 @@ Y Análisis sintáctico del compilador utiliza la gramática para analizar el c�
 
 ### [ARBOL](https://github.com/TortaAhogada02/Traductores-de-lenguaje/tree/ULTIMA-PARTE/Arbol)
 En el proceso de análisis sintáctico, un compilador utiliza las reglas gramaticales definidas en la gramática formal del lenguaje para construir un árbol de derivación sintáctica que representa la estructura jerárquica del programa. Cada nodo del árbol corresponde a un símbolo no terminal o terminal de la gramática, y las aristas representan las reglas de producción que se aplican para derivar la estructura del programa.
-
+Los árboles de derivación sintáctica son esenciales para identificar la estructura sintáctica correcta del código fuente y para detectar posibles errores o ambigüedades en la sintaxis. Además, estos árboles sirven como entrada para las fases posteriores del compilador, como el análisis semántico y la generación de código intermedio.
 
 
