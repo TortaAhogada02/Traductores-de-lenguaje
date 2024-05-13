@@ -74,3 +74,6 @@ Los compiladores permiten que un programa escrito en un lenguaje de alto nivel p
 
 * **Abstracción**
 Los compiladores permiten a los programadores trabajar a un nivel de abstracción más alto al escribir código en lenguajes de programación de alto nivel, lo que facilita el desarrollo de software complejo y reduce la complejidad de la programación a nivel de máquina.
+
+* **Facilita el desarrollo de software**
+Al convertir el código fuente en un formato ejecutable, los compiladores permiten a los programadores crear aplicaciones y sistemas de software completos que pueden ser distribuidos y utilizados por los usuarios finales.
