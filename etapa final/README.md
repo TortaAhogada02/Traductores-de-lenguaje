@@ -64,7 +64,11 @@ Además, los compiladores pueden realizar varias tareas adicionales que mejoran 
 
 ![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/73253b41-500b-40e6-9ad2-5aa2f7747e3e)
 
+# PROBLEMATICAS ENCONTRADAS EN ESTE PROYECTO
+Siendo sincero es la primera vez que realizaba este tipo de proyectos, aunque me hubiera gustado hacerla con alguna interfaz grafica mejor equipada o elaborada intente hacer lo mejor por medio de videos, con ayuda de compañeros y sobre todo con un chingo de FÉ.
+Se me complico usar un poco Tkinter pero viendo algunos videos comence a usar algunas interfaces algo básicas, para mi proyecto!
 
+** ES CUESTIÓN DE PRACTICAR MÁS Y MEJORAR MI ESTILO DE PROGRAMACIÓN **
 
 
 
