@@ -48,3 +48,7 @@ El analizador sintáctico es la fase del compilador que se encarga de verificar 
 5. Informar de los errores sintácticos encontrados en la entrada.
 
 ### [GRAMATICA](https://github.com/TortaAhogada02/Traductores-de-lenguaje/tree/ULTIMA-PARTE/GRAMATICA%20COMPILADOR).
+Una gramática formal es fundamental para el funcionamiento de un compilador, ya que define la estructura y sintaxis válida del lenguaje de programación que el compilador debe procesar. Aquí te explico cómo funciona una gramática en un compilador:
+Definición de la sintaxis del lenguaje
+La gramática define las reglas que especifican cómo deben estar estructurados los programas válidos en el lenguaje. Estas reglas incluyen la forma en que se deben escribir las declaraciones, expresiones, sentencias, etc.
+Y Análisis sintáctico del compilador utiliza la gramática para analizar el código fuente del programa y verificar si cumple con las reglas sintácticas definidas. Esto se conoce como análisis sintáctico o parsing.
