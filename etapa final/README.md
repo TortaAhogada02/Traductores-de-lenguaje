@@ -60,6 +60,11 @@ Además, los compiladores pueden realizar varias tareas adicionales que mejoran 
 
 ![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/06d07acf-8c5e-42a0-b394-f60d5853757d)
 
+* **ARCHIVO ASM, CREADO**
+
+![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/73253b41-500b-40e6-9ad2-5aa2f7747e3e)
+
+
 
 
 
