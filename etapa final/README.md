@@ -27,5 +27,6 @@ Además, los compiladores pueden realizar varias tareas adicionales que mejoran 
 ![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/9a6da839-f36a-46d0-a626-677e6d561ff6)
 
 ## ETAPAS
-
+# FUNCION PRINCIPAL PARA QUE EL PROGRAMA CORRIERA
+![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/4c82c683-2b3a-424f-a5de-04967e1a8293)
 
