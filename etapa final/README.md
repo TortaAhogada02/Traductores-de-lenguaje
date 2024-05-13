@@ -30,3 +30,5 @@ Además, los compiladores pueden realizar varias tareas adicionales que mejoran 
 ## FUNCION PRINCIPAL PARA QUE EL PROGRAMA CORRIERA (MAIN)
 ![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/4c82c683-2b3a-424f-a5de-04967e1a8293)
 ## ARCHIVO DONDE QUEDAN ALMACENADOS TODOS LOS ANALIZADORES Y GENERAR (ARBOLES, LEXICO, SINTACTICO Y SEMANTICO)
+![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/3fe5070b-bfba-4360-9efe-c7ee992d81e1)
+
