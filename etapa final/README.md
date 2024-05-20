@@ -69,6 +69,7 @@ Además, los compiladores pueden realizar varias tareas adicionales que mejoran 
 
 # PROBLEMATICAS ENCONTRADAS EN ESTE PROYECTO
 Siendo sincero es la primera vez que realizaba este tipo de proyectos, aunque me hubiera gustado hacerla con alguna interfaz grafica mejor equipada o elaborada intente hacer lo mejor por medio de videos, con ayuda de compañeros y sobre todo con un chingo de FÉ.
+En parte mi computadora tuvo fallas y se mando al hospital de computadoras, haciendome más complicado la elaboración 
 Se me complico usar un poco Tkinter pero viendo algunos videos comence a usar algunas interfaces algo básicas, para mi proyecto!
 
 ** ES CUESTIÓN DE PRACTICAR MÁS Y MEJORAR MI ESTILO DE PROGRAMACIÓN **
